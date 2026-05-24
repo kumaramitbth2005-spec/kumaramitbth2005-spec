@@ -5,27 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ amit-kumar-814263335) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AMIT 2005 KUMAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaramitbth2005@gmail.com) 
 
-
-<!-- ======================= ROBOTIC ANIMATION HEADER ======================= -->
-
-<h1 align="center">
-  🤖 AMIT KUMAR
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ROBOTIC+FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;BUILDING+AI+POWERED+SYSTEMS;NEXT.JS+%7C+REACT+%7C+NODE.JS;WELCOME+TO+MY+CYBER+WORLD+⚡" />
-</p>
-
----
-
-<!-- ======================= CYBER GIF ======================= -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJxcnI4MHF3M2VhYmM2a2c2M3V2NWF1Z2p0NmN4eW9zbjN2bGI2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="700"/>
-</p>
-
----
-
 # 🤖 ABOUT ME
 
 ```yaml
