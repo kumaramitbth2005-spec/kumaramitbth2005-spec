@@ -1,164 +1,180 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                   AMIT KUMAR — GitHub Profile README                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Animated Typing Header -->
+```
+██████╗  ██████╗ ██████╗  ██████╗ ████████╗
+██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝
+██████╔╝██║   ██║██████╔╝██║   ██║   ██║
+██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║
+██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝
+```
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kumar;Full-Stack+MERN+Developer;AI+%2B+SaaS+Builder;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%5BROOT%40AMIT-K+~%5D%24+whoami;%3E+Robotic+Full-Stack+Developer;%3E+MERN+%2B+AI+Systems+Engineer;%3E+SaaS+Builder+%7C+Open-Source+Contributor;%3E+Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile Banner — replace with your own image if desired -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=180&section=header&text=Amit%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotic%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20Systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a00&height=2&section=header" width="100%"/>
 
 </div>
 
 ---
 
-## 🤖 Who Am I?
+## `> SYSTEM BOOT`
 
-```yaml
-name        : Amit Kumar
-role        : Robotic Full-Stack Developer
-stack       : MERN  +  AI Systems
-learning    : [ Next.js, TypeScript, Cloud Deployment, AI Automation ]
-mission     : "Building futuristic applications for real-world problems ⚡"
-fun_fact    : "I write code that humans AND machines both understand."
+```bash
+[  OK  ] kernel loaded         ... node.js runtime active
+[  OK  ] stack mounted         ... MERN + AI modules online
+[  OK  ] cloud interface       ... AWS / GCP handshake complete
+[  OK  ] learning daemon       ... Next.js · TypeScript · AI loading
+[ RDY  ] unit AMIT_K online █
 ```
 
 ---
 
-## 🌐 Connect with Me
+## `> IDENTITY MATRIX`
+
+```yaml
+name     : Amit Kumar
+role     : "Robotic Full-Stack Developer"
+stack    : [ MERN, AI Systems, Cloud Deployment ]
+learning : [ Next.js, TypeScript, AWS, AI Automation ]
+mission  : "Building futuristic apps for real-world problems ⚡"
+fun_fact : "I write code that humans AND machines both understand."
+mode     : HACKER  # always
+```
+
+---
+
+## `> CONNECT`
+
+```
+[01] linkedin  → linkedin.com/in/amit-kumar-814263335
+[02] gmail     → kumaramitbth2005@gmail.com
+[03] mastodon  → mastodon.social/@AMIT2005KUMAR
+[04] github    → github.com/AmitKumar
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-kumar-814263335)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaramitbth2005@gmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@AMIT2005KUMAR)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumar)
+[![LinkedIn](https://img.shields.io/badge/%5B01%5D_LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/amit-kumar-814263335)
+[![Gmail](https://img.shields.io/badge/%5B02%5D_GMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:kumaramitbth2005@gmail.com)
+[![Mastodon](https://img.shields.io/badge/%5B03%5D_MASTODON-00FF41?style=for-the-badge&logo=mastodon&logoColor=000000)](https://mastodon.social/@AMIT2005KUMAR)
+[![GitHub](https://img.shields.io/badge/%5B04%5D_GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/AmitKumar)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## `> TECH ARSENAL`
 
-### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+```
+// languages ──────────────────────────────────────────────
+```
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41)
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+```
+// frontend ────────────────────────────────────────────────
+```
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00CCFF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00CCFF)
+![React_Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=00CCFF)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=00CCFF)
+![React_Router](https://img.shields.io/badge/React_Router-000000?style=flat-square&logo=reactrouter&logoColor=00CCFF)
+![React_Query](https://img.shields.io/badge/React_Query-000000?style=flat-square&logo=reactquery&logoColor=00CCFF)
+![AngularJS](https://img.shields.io/badge/AngularJS-000000?style=flat-square&logo=angularjs&logoColor=00CCFF)
 
-### 🛠️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+```
+// backend + database ──────────────────────────────────────
+```
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=FFCC00)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=FFCC00)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=FFCC00)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FFCC00)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCC00)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+```
+// cloud + devops ──────────────────────────────────────────
+```
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF5555)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=FF5555)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FF5555)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=FF5555)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=FF5555)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FF5555)
 
 ---
 
-## 📊 GitHub Stats
+## `> GITHUB STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmitKumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmitKumar&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00CC33&bg_color=000000" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar&theme=chartreuse-dark&hide_border=true&layout=compact&title_color=00FF41&text_color=00CC33&bg_color=000000" height="180"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=AmitKumar&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=000000" height="180"/>
+
+</div>
+
+---
+
+## `> CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitKumar&theme=high-contrast&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff&area_color=001a00" width="100%"/>
+
+</div>
+
+---
+
+## `> TROPHIES UNLOCKED`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmitKumar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
+---
+
+## `> TOP CONTRIBUTED REPOS`
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=AmitKumar&limit=5&theme=dark&combine_all_yearly_contributions=true&no-bg=true&no-frame=true"/>
+
+</div>
+
+---
+
+## `> RANDOM TRANSMISSION`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> CONNECTION ESTABLISHED
+> SYSTEM STATUS: ONLINE
+> NEXT MISSION: LOADING...  █
+```
+
+<img src="https://komarev.com/ghpvc/?username=AmitKumar&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=000000"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AmitKumar&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmitKumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AmitKumar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&no-bg=true&no-frame=true" alt="Top Contributed Repos"/>
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitKumar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmitKumar/AmitKumar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmitKumar/AmitKumar/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/AmitKumar/AmitKumar/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=AmitKumar&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
-
-<br/><br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D4FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,100:000000&height=100&section=footer&fontColor=00FF41"/>
 
 </div>
