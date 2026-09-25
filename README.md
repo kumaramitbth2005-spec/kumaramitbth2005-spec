@@ -1,15 +1,14 @@
 <div align="center">
 
-<br/>
-
-# Amit Kumar
+<img src="./assets/amit-robot.gif" width="700">
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Robot/3D/robot_3d.png" width="220" alt="Amit Kumar" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=5B8CFF&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CSE+Student;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Building+%7C+Learning+%7C+Creating"
+/>
 
-<br/><br/>
-
+</div>
 ### 👤&nbsp; About Me
 
 ━━━━━━━━━━━━━━━━━━━━━━━
