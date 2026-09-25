@@ -1,12 +1,15 @@
 <div align="center">
 
-# Amit <span style="color:#4F8CFF;">Kumar</span>
+<br/>
 
-<br>
+# Amit Kumar
 
-<img src="./amit_robot.png" width="320" alt="Amit Kumar Coding Robot">
+<br/>
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Robot/3D/robot_3d.png" width="220" alt="Amit Kumar" />
+
+<br/><br/>
+
 ### 👤&nbsp; About Me
 
 ━━━━━━━━━━━━━━━━━━━━━━━
