@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./assets/amit-robot.gif" width="700">
+# Amit <span style="color:#4F8CFF;">Kumar</span>
 
-<br/>
+<br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=5B8CFF&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CSE+Student;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Building+%7C+Learning+%7C+Creating"
-/>
+<img src="./amit_robot.png" width="320" alt="Amit Kumar Coding Robot">
 
 </div>
 ### 👤&nbsp; About Me
